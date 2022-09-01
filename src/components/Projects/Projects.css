@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans&family=DM+Serif+Display&display=swap");
+
+.project > * {
+  color: #ede4ff;
+  background: black;
+}
+.project {
+  height: 1000px;
+  width: 100%;
+  background: black;
+  margin: auto;
+}
+.project-header {
+  font-family: "DM Serif Display", serif;
+  font-size: 8vw;
+  padding-top: 120px;
+  text-align: center;
+}
+.project-container {
+  width: 60%;
+  margin: auto;
+  margin-top: 20px;
+}
+.card-text {
+  color: black;
+  font-family: "DM Sans", sans-serif;
+}
+.buttons {
+  color: black;
+  font-family: "DM Sans", sans-serif;
+}
+.anchor {
+  margin-right: 12px;
+  font-weight: bolder;
+  border: gray solid 1px;
+  color: white;
+  padding: 5px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 22px;
+}
+.anchor:hover {
+  background-color: black;
+  color: white;
+}

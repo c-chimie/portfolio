@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans&family=DM+Serif+Display&display=swap");
+
+.about > * {
+  color: #ede4ff;
+  background: black;
+}
+.about {
+  height: 800px;
+  width: 100%;
+  background: black;
+}
+.about-header {
+  font-family: "DM Serif Display", serif;
+  font-size: 8vw;
+  padding-top: 250px;
+  text-align: center;
+}
+.me {
+  font-family: "DM Sans", sans-serif;
+  margin: auto;
+  text-align: center;
+  width: 80vw;
+  font-size: 20px;
+}

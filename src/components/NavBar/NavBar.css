@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans&family=DM+Serif+Display&display=swap");
+
+.nav-link {
+  color: black;
+  font-family: "DM Sans", sans-serif;
+  font-size: 20px;
+}
+.nav-link:hover {
+  color: black;
+  font-style: italic;
+}
+.nav-link:focus {
+  color: black;
+}

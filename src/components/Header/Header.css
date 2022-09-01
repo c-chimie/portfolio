@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Serif+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans&family=DM+Serif+Display&display=swap");
+.concetta {
+  font-family: "DM Serif Display", serif;
+  font-size: 15vw;
+  margin-top: 0px;
+  line-height: 80%;
+  margin-bottom: 25px;
+}
+.hey {
+  font-family: "DM Sans", sans-serif;
+  margin-bottom: 0px;
+  font-size: 3vw;
+  margin-top: 170px;
+  line-height: 0px;
+}
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: black;
+}
+.sub {
+  font-size: 2vw;
+  padding: 0px 20px;
+  margin: auto;
+  font-family: "DM Sans", sans-serif;
+  color: grey;
+  border: grey solid 1px;
+  width: fit-content;
+  border-radius: 30px;
+}
+.connect {
+  font-family: "DM Sans", sans-serif;
+  font-size: 20px;
+  margin-top: 150px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: black;
+}
+svg {
+  margin: 0px 8px;
+}
+a:link {
+  text-decoration: inherit;
+  color: inherit;
+  cursor: pointer;
+}
+
+a:visited {
+  text-decoration: inherit;
+  color: inherit;
+  cursor: pointer;
+}
